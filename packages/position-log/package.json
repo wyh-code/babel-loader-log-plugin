@@ -1,6 +1,6 @@
 {
   "name": "position-log",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "babel、loader、plugin、log、 position",
   "main": "index.js",
   "scripts": {
