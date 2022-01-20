@@ -1,6 +1,6 @@
 {
   "name": "rm-log-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "babel、loader、plugin、log、 rm",
   "main": "index.js",
   "scripts": {
